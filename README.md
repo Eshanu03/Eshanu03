@@ -4,7 +4,7 @@
 
 # Eshanu Mondal
 
-### Web Designer &nbsp;&bull;&nbsp; Graphics Designer &nbsp;&bull;&nbsp; UI/UX Creator
+### Web Designer &nbsp;•&nbsp; Graphics Designer &nbsp;•&nbsp; UI/UX Creator
 
 <br>
 
@@ -12,19 +12,15 @@
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Eshanu03-0d1117?style=flat-square&logo=github&logoColor=white&labelColor=161b22&color=30363d)](https://github.com/Eshanu03)
-&nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=Eshanu03&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/Eshanu03)
-
 </div>
 
 ---
 
 ## About Me
 
-I'm **Eshanu Mondal** &mdash; a Web Designer, Graphics Designer and UI/UX Creator focused on crafting modern digital experiences, visually engaging interfaces and functional web solutions.
+I'm **Eshanu Mondal** — a Web Designer, Graphics Designer and UI/UX Creator focused on crafting modern digital experiences, visually engaging interfaces and functional web solutions.
 
-My work bridges design and development &mdash; from visual concepts and interface systems to responsive, interactive web experiences.
+My work bridges design and development — from visual concepts and interface systems to responsive, interactive web experiences.
 
 ---
 
@@ -33,49 +29,48 @@ My work bridges design and development &mdash; from visual concepts and interfac
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b>&#128187; Frontend Development</b>b>
+      <b>&#128187; Frontend Development</b>
       <br><br>
       Building responsive, interactive web interfaces from scratch.
       <br><br>
-      <code>HTML5</code>code> <code>CSS3</code>code> <code>JavaScript</code>code>
+      <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
       <br><br>
       &bull; Responsive Web Design<br>
       &bull; Interactive UI<br>
       &bull; Landing Pages<br>
       &bull; Web Applications<br>
       &bull; Frontend Prototyping
-    </td>td>
+    </td>
     <td width="33%" valign="top">
-      <b>&#128421; UI/UX Design</b>b>
+      <b>&#128421; UI/UX Design</b>
       <br><br>
       Designing clean, user-centered interfaces and experiences.
       <br><br>
-      <code>Figma</code>code> <code>Wireframing</code>code> <code>Prototyping</code>code>
+      <code>Figma</code> <code>Wireframing</code> <code>Prototyping</code>
       <br><br>
       &bull; Web UI Design<br>
       &bull; Dashboard Design<br>
       &bull; Mobile UI<br>
       &bull; Design Systems<br>
       &bull; User Experience
-    </td>td>
+    </td>
     <td width="33%" valign="top">
-      <b>&#127912; Graphics &amp; Branding</b>b>
+      <b>&#127912; Graphics &amp; Branding</b>
       <br><br>
       Creating compelling visual identities and design assets.
       <br><br>
-      <code>Illustrator</code>code> <code>Photoshop</code>code>
+      <code>Illustrator</code> <code>Photoshop</code>
       <br><br>
       &bull; Logo Design<br>
       &bull; Brand Identity<br>
       &bull; Visual Design<br>
       &bull; Marketing Creatives<br>
       &bull; Digital Graphics
-    </td>td>
-  </tr>tr>
-</table>table>
+    </td>
+  </tr>
+</table>
 
 ---
-
 
 ## Tech Stack
 
@@ -94,8 +89,8 @@ My work bridges design and development &mdash; from visual concepts and interfac
 **Design**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 
 **Tools**
 
@@ -107,13 +102,13 @@ My work bridges design and development &mdash; from visual concepts and interfac
 
 ## Design + Development
 
-I work across the full spectrum of the digital product process &mdash; from the first visual concept to the finished, deployed interface.
+I work across the full spectrum of the digital product process — from the first visual concept to the finished, deployed interface.
 
 ```
-Concept  &rarr;  Design  &rarr;  Interface  &rarr;  Development  &rarr;  Final Experience
+Concept  ->  Design  ->  Interface  ->  Development  ->  Final Experience
 ```
 
-This means I can take a product from idea to a polished, functional web experience &mdash; handling both the visual and technical sides of the work.
+This means I can take a product from idea to a polished, functional web experience — handling both the visual and technical sides of the work.
 
 ---
 
@@ -121,27 +116,20 @@ This means I can take a product from idea to a polished, functional web experien
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Eshanu03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" alt="Eshanu Mondal GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshanu03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Eshanu03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" alt="Eshanu Mondal GitHub Stats" width="48%" />
 
-  </div>
+</div>
 
-  ---
+---
 
-  ## Let's Connect
+## Let's Connect
 
-  I'm open to freelance projects, collaborations and professional opportunities.
+I'm open to freelance projects, collaborations and professional opportunities.
 
-  &nbsp; **GitHub** &mdash; [github.com/Eshanu03](https://github.com/Eshanu03)
+**GitHub** — [github.com/Eshanu03](https://github.com/Eshanu03)
 
-  ---
+---
 
-  <div align="center">
-
-    <sub>Designing the experience &nbsp;&bull;&nbsp; Building the interface</sub>
-
-    </div>
-    
-  </tr>
-</table>
+<div align="center">
+<sub>Designing the experience &nbsp;•&nbsp; Building the interface</sub>
+</div>
