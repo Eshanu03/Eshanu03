@@ -44,7 +44,7 @@ My work bridges design and development &mdash; from visual concepts and interfac
       &bull; Landing Pages<br>
       &bull; Web Applications<br>
       &bull; Frontend Prototyping
-    </td>td>
+    </td>
     <td width="33%" valign="top">
       <b>&#128421; UI/UX Design</b>b>
       <br><br>
@@ -57,7 +57,7 @@ My work bridges design and development &mdash; from visual concepts and interfac
       &bull; Mobile UI<br>
       &bull; Design Systems<br>
       &bull; User Experience
-    </td>td>
+    </td>
     <td width="33%" valign="top">
       <b>&#127912; Graphics &amp; Branding</b>b>
       <br><br>
@@ -70,9 +70,9 @@ My work bridges design and development &mdash; from visual concepts and interfac
       &bull; Visual Design<br>
       &bull; Marketing Creatives<br>
       &bull; Digital Graphics
-    </td>td>
-  </tr>tr>
-</table>table>
+    </td>
+  </tr>
+</table>
 
 ---
 
