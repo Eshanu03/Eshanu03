@@ -30,9 +30,49 @@ My work bridges design and development &mdash; from visual concepts and interfac
 
 ## What I Do
 
-| Frontend Development | UI/UX Design | Graphics & Branding |
-| :--- | :--- | :--- |
-| Building responsive, interactive web interfaces from scratch.<br><br>`HTML5` `CSS3` `JavaScript`<br><br>&bull; Responsive Web Design<br>&bull; Interactive UI<br>&bull; Landing Pages<br>&bull; Web Applications<br>&bull; Frontend Prototyping | Designing clean, user-centered interfaces and experiences.<br><br>`Figma` `Wireframing` `Prototyping`<br><br>&bull; Web UI Design<br>&bull; Dashboard Design<br>&bull; Mobile UI<br>&bull; Design Systems<br>&bull; User Experience | Creating compelling visual identities and design assets.<br><br>`Illustrator` `Photoshop`<br><br>&bull; Logo Design<br>&bull; Brand Identity<br>&bull; Visual Design<br>&bull; Marketing Creatives<br>&bull; Digital Graphics |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>&#128187; Frontend Development</b>b>
+      <br><br>
+      Building responsive, interactive web interfaces from scratch.
+      <br><br>
+      <code>HTML5</code>code> <code>CSS3</code>code> <code>JavaScript</code>code>
+      <br><br>
+      &bull; Responsive Web Design<br>
+      &bull; Interactive UI<br>
+      &bull; Landing Pages<br>
+      &bull; Web Applications<br>
+      &bull; Frontend Prototyping
+    </td>td>
+    <td width="33%" valign="top">
+      <b>&#128421; UI/UX Design</b>b>
+      <br><br>
+      Designing clean, user-centered interfaces and experiences.
+      <br><br>
+      <code>Figma</code>code> <code>Wireframing</code>code> <code>Prototyping</code>code>
+      <br><br>
+      &bull; Web UI Design<br>
+      &bull; Dashboard Design<br>
+      &bull; Mobile UI<br>
+      &bull; Design Systems<br>
+      &bull; User Experience
+    </td>td>
+    <td width="33%" valign="top">
+      <b>&#127912; Graphics &amp; Branding</b>b>
+      <br><br>
+      Creating compelling visual identities and design assets.
+      <br><br>
+      <code>Illustrator</code>code> <code>Photoshop</code>code>
+      <br><br>
+      &bull; Logo Design<br>
+      &bull; Brand Identity<br>
+      &bull; Visual Design<br>
+      &bull; Marketing Creatives<br>
+      &bull; Digital Graphics
+    </td>td>
+  </tr>tr>
+</table>table>
 
 ---
 
@@ -81,24 +121,27 @@ This means I can take a product from idea to a polished, functional web experien
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Eshanu03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" alt="Eshanu Mondal GitHub Stats" width="48%" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshanu03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eshanu03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" alt="Eshanu Mondal GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshanu03&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top Languages" width="40%" />
 
-</div>
+  </div>
 
----
+  ---
 
-## Let's Connect
+  ## Let's Connect
 
-I'm open to freelance projects, collaborations and professional opportunities.
+  I'm open to freelance projects, collaborations and professional opportunities.
 
-&nbsp; **GitHub** &mdash; [github.com/Eshanu03](https://github.com/Eshanu03)
+  &nbsp; **GitHub** &mdash; [github.com/Eshanu03](https://github.com/Eshanu03)
 
----
+  ---
 
-<div align="center">
+  <div align="center">
 
-<sub>Designing the experience &nbsp;&bull;&nbsp; Building the interface</sub>
+    <sub>Designing the experience &nbsp;&bull;&nbsp; Building the interface</sub>
 
-</div>
+    </div>
+    
+  </tr>
+</table>
