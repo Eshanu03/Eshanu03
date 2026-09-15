@@ -1,5 +1,244 @@
-The deployment is currently unavailable
+name: Update GitHub Stats
 
-DEPLOYMENT_PAUSED
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
-cle1::vp2gs-1789431318301-2b93f9b2141d
+permissions:
+  contents: write
+
+jobs:
+  generate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate Stats SVG
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 <<'PY'
+          import json
+          import os
+          import urllib.request
+
+          username = "Eshanu03"
+
+          query = """
+          query($login:String!) {
+            user(login:$login) {
+              name
+              login
+              followers {
+                totalCount
+              }
+              following {
+                totalCount
+              }
+              repositories(first:100, ownerAffiliations:OWNER, privacy:PUBLIC) {
+                totalCount
+                nodes {
+                  stargazerCount
+                  forkCount
+                  primaryLanguage {
+                    name
+                  }
+                }
+              }
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                }
+              }
+            }
+          }
+          """
+
+          payload = json.dumps({
+              "query": query,
+              "variables": {"login": username}
+          }).encode()
+
+          request = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=payload,
+              headers={
+                  "Authorization": f"bearer {os.environ['GH_TOKEN']}",
+                  "Content-Type": "application/json",
+                  "User-Agent": "GitHub-Actions"
+              }
+          )
+
+          with urllib.request.urlopen(request) as response:
+              data = json.loads(response.read())
+
+          user = data["data"]["user"]
+
+          repos = user["repositories"]["nodes"]
+
+          stars = sum(repo["stargazerCount"] for repo in repos)
+          forks = sum(repo["forkCount"] for repo in repos)
+
+          contributions = user["contributionsCollection"][
+              "contributionCalendar"
+          ]["totalContributions"]
+
+          repositories = user["repositories"]["totalCount"]
+          followers = user["followers"]["totalCount"]
+
+          svg = f'''<svg xmlns="http://www.w3.org/2000/svg"
+          width="900"
+          height="300"
+          viewBox="0 0 900 300">
+
+            <rect
+              width="900"
+              height="300"
+              rx="18"
+              fill="#0d1117"/>
+
+            <rect
+              x="1"
+              y="1"
+              width="898"
+              height="298"
+              rx="18"
+              fill="none"
+              stroke="#30363d"/>
+
+            <text
+              x="40"
+              y="55"
+              fill="#58a6ff"
+              font-family="Arial, sans-serif"
+              font-size="26"
+              font-weight="bold">
+              GitHub Statistics
+            </text>
+
+            <text
+              x="40"
+              y="82"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="15">
+              @{username}
+            </text>
+
+            <text
+              x="80"
+              y="145"
+              fill="#ffffff"
+              font-family="Arial, sans-serif"
+              font-size="30"
+              font-weight="bold">
+              {repositories}
+            </text>
+
+            <text
+              x="80"
+              y="170"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="14">
+              Repositories
+            </text>
+
+            <text
+              x="260"
+              y="145"
+              fill="#ffffff"
+              font-family="Arial, sans-serif"
+              font-size="30"
+              font-weight="bold">
+              {contributions}
+            </text>
+
+            <text
+              x="260"
+              y="170"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="14">
+              Contributions
+            </text>
+
+            <text
+              x="460"
+              y="145"
+              fill="#ffffff"
+              font-family="Arial, sans-serif"
+              font-size="30"
+              font-weight="bold">
+              {stars}
+            </text>
+
+            <text
+              x="460"
+              y="170"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="14">
+              Stars
+            </text>
+
+            <text
+              x="650"
+              y="145"
+              fill="#ffffff"
+              font-family="Arial, sans-serif"
+              font-size="30"
+              font-weight="bold">
+              {followers}
+            </text>
+
+            <text
+              x="650"
+              y="170"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="14">
+              Followers
+            </text>
+
+            <text
+              x="40"
+              y="245"
+              fill="#8b949e"
+              font-family="Arial, sans-serif"
+              font-size="13">
+              Automatically generated by GitHub Actions
+            </text>
+
+          </svg>'''
+
+          os.makedirs("profile", exist_ok=True)
+
+          with open("profile/stats.svg", "w", encoding="utf-8") as file:
+              file.write(svg)
+
+          print("Stats SVG generated successfully.")
+          PY
+
+      - name: Commit and Push Stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/stats.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: update GitHub stats"
+
+          git pull --rebase origin main
+
+          git push origin main
