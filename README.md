@@ -116,6 +116,11 @@ This means I can take a product from idea to a polished, functional web experien
 
 <div align="center"> <a href="https://github.com/Eshanu03"> <img src="https://img.shields.io/badge/GitHub-Eshanu03-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div>
 
+<div align="center">
+
+<img src="./profile/stats.svg" alt="Eshanu Mondal GitHub Stats" width="48%" />
+
+</div>
 ---
 
 ## Let's Connect
