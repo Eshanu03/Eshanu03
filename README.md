@@ -4,168 +4,186 @@
 
 <br>
 
-<p>
-  <a href="https://github.com/Eshanu03">
-    <img src="https://img.shields.io/badge/GitHub-Eshanu03-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
-  </a>
-  <img src="https://img.shields.io/badge/Web%20Design-58a6ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/UI%2FUX-8b5cf6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graphics%20Design-f97316?style=for-the-badge" />
-</p>
+# Eshanu Mondal
+
+### Web Designer &nbsp;•&nbsp; Graphics Designer &nbsp;•&nbsp; UI/UX Creator
+
+<br>
+
+*Designing interfaces. Building experiences. Creating digital products.*
+
+<br>
 
 </div>
 
 ---
 
-# 👋 Hello, I'm Eshanu Mondal
+## About Me
 
-### Web Designer • Graphics Designer • UI/UX Creator
+I'm **Eshanu Mondal** — a Web Designer, Graphics Designer and UI/UX Creator focused on crafting modern digital experiences, visually engaging interfaces and functional web solutions.
 
-I design and build **modern digital experiences** where visual design, interaction and technology come together.
+My work bridges **design and development** — from visual concepts and interface systems to responsive, interactive web experiences.
 
-My work focuses on creating interfaces that are not only visually appealing, but also **usable, responsive, structured and functional**.
-
-I work across both **design and development**, allowing me to take an idea from an initial concept to a complete digital experience.
+I enjoy transforming ideas into digital products that are **visually refined, intuitive and technically functional**.
 
 ---
 
-## ✦ What I Do
+## What I Do
 
 <table>
-<tr>
-<td width="33%" valign="top">
+  <tr>
 
-### 🎨 Graphics Design
+    <td width="33%" valign="top">
 
-Creating visual identities and digital graphics with a strong focus on composition, hierarchy and visual consistency.
+      <b>💻 Frontend Development</b>
 
-**Areas**
+      <br><br>
 
-- Brand Identity
-- Logo Design
-- Social Media Graphics
-- Marketing Creatives
-- Digital Artwork
-- Presentation Design
-- Visual Systems
+      Building responsive, interactive web interfaces from scratch.
 
-</td>
+      <br><br>
 
-<td width="33%" valign="top">
+      <code>HTML5</code>
+      <code>CSS3</code>
+      <code>JavaScript</code>
 
-### 🖥️ Web Development
+      <br><br>
 
-Building responsive and functional websites with clean structures and modern interfaces.
+      • Responsive Web Design<br>
+      • Interactive UI<br>
+      • Landing Pages<br>
+      • Web Applications<br>
+      • Frontend Prototyping
 
-**Areas**
+    </td>
 
-- Landing Pages
-- Responsive Websites
-- Interactive Interfaces
-- Frontend Development
-- Backend Integration
-- Web Applications
-- Dashboard Interfaces
+    <td width="33%" valign="top">
 
-</td>
+      <b>🧩 UI/UX Design</b>
 
-<td width="33%" valign="top">
+      <br><br>
 
-### 🧩 UI/UX Design
+      Designing clean, user-centered interfaces and experiences.
 
-Designing user experiences that balance aesthetics, usability and interaction.
+      <br><br>
 
-**Areas**
+      <code>Figma</code>
+      <code>Wireframing</code>
+      <code>Prototyping</code>
 
-- UI Design
-- UX Research
-- Wireframing
-- Prototyping
-- Design Systems
-- User Flows
-- Interaction Design
+      <br><br>
 
-</td>
-</tr>
+      • Web UI Design<br>
+      • Dashboard Design<br>
+      • Mobile UI<br>
+      • Design Systems<br>
+      • User Experience
+
+    </td>
+
+    <td width="33%" valign="top">
+
+      <b>🎨 Graphics &amp; Branding</b>
+
+      <br><br>
+
+      Creating compelling visual identities and design assets.
+
+      <br><br>
+
+      <code>Illustrator</code>
+      <code>Photoshop</code>
+
+      <br><br>
+
+      • Logo Design<br>
+      • Brand Identity<br>
+      • Visual Design<br>
+      • Marketing Creatives<br>
+      • Digital Graphics
+
+    </td>
+
+  </tr>
 </table>
 
 ---
 
-# ⚡ My Creative + Development Stack
+## Tech Stack
 
 ### Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 ### Backend & Database
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
 ### Design
 
 <p>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator">
 </p>
 
 ### Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
 </p>
 
 ---
 
-# 🧠 How I Approach Projects
+## Design + Development
+
+I work across the full spectrum of the digital product process — from the first visual concept to the finished, deployed interface.
 
 ```text
-       IDEA
-        │
-        ▼
-   ┌───────────┐
-   │  DISCOVER  │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │  STRATEGY  │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │   DESIGN   │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │ PROTOTYPE  │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │  DEVELOP   │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │   TEST     │
-   └─────┬─────┘
-         │
-         ▼
-   ┌───────────┐
-   │   REFINE   │
-   └─────┬─────┘
-         │
-         ▼
-      LAUNCH
+Concept  →  Design  →  Interface  →  Development  →  Final Experience
+```
+
+  ### 01
+  **Understand**
+
+  Understand the idea, users and requirements.
+
+</td>
+
+<td width="25%" align="center">
+
+  ### 02
+  **Design**
+
+  Build the visual language, interface and experience.
+
+</td>
+
+<td width="25%" align="center">
+
+  ### 03
+  **Develop**
+
+  Transform the design into a responsive product.
+
+</td>
+
+<td width="25%" align="center">
+
+  ### 04
+  **Refine**
+
+  Test, improve and polish the final experience.
+
+</td>
+</tr></table>
