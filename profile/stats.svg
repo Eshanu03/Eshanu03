@@ -1,13 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
-  <rect width="800" height="200" fill="#0d1117"/>
+The deployment is currently unavailable
 
-  <text
-    x="400"
-    y="100"
-    text-anchor="middle"
-    fill="#58a6ff"
-    font-family="Arial"
-    font-size="28">
-    GitHub Stats Loading...
-  </text>
-</svg>
+DEPLOYMENT_PAUSED
+
+iad1::js7kv-1789431049151-36ca95965e4f
