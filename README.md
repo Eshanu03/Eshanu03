@@ -121,7 +121,6 @@ This means I can take a product from idea to a polished, functional web experien
 <img src="./profile/stats.svg" alt="Eshanu Mondal GitHub Stats" width="48%" />
 
 </div>
----
 
 ## Let's Connect
 
@@ -137,7 +136,7 @@ This means I can take a product from idea to a polished, functional web experien
 
 <sub>© Eshanu Mondal</sub>
 
-</div> ```
+</div> 
 
 ---
 
